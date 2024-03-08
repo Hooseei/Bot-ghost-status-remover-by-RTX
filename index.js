@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Spectrum Hub"];
+const statusMessages = ["Watching over Spectrum Hub"];
 
 
 let currentIndex = 0;
