@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Managing this server"];
+const statusMessages = ["Koala Management made by Polxrizedd Bot Hub"];
 
 
 let currentIndex = 0;
