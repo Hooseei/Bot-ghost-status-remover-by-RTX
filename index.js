@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Overviewing Designify™"];
+const statusMessages = ["Overviewing Illustrate."];
 
 
 let currentIndex = 0;
