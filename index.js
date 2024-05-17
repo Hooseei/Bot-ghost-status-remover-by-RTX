@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Overviewing Designify."];
+const statusMessages = ["Managing New South Wales Roleplay."];
 
 
 let currentIndex = 0;
