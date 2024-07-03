@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Managing New South Wales Roleplay."];
+const statusMessages = ["Managing Hive Graphics."];
 
 
 let currentIndex = 0;
