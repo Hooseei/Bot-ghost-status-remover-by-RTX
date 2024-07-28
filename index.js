@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Managing Hive Graphics."];
+const statusMessages = ["Managing Future."];
 
 
 let currentIndex = 0;
