@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Droplet"];
+const statusMessages = ["Watching Droplet Customs"];
 
 
 let currentIndex = 0;
